@@ -8,7 +8,7 @@ public class Maintest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("sdfdsf");
-		//沙发
+		//沙发是不是真的
 		System.out.println("ddd");
 	}
 }
